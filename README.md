@@ -30,7 +30,8 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="http://rosin-project.eu"> <img src="http://rosin-project.eu/wp-content/uploads/rosin_ack_logo_wide.png" alt="rosin_logo" height="40" >
+<a href="http://rosin-project.eu"> <img src="http://rosin-project.eu/wp-content/uploads/rosin_ack_logo_wide.png" alt="rosin_logo" width="40" height="40"> </a>
+<a href="http://gazebosim.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Gazebo_logo.svg" alt="gazebo_logo" width="40" height="40"> </a>
   </p>
 <!--
 
