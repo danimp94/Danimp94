@@ -4,14 +4,15 @@
 - 📖 I'm a passionate about artificial intelligence, computer vision and embedded systems.
 - 🔭 I’m currently working on reinforcement learning projects.
 - 🌱 I’m currently studying a MSc degree in **Robotics at AAU** and working as student assistant in [**ASIR project**](https://asir.create.aau.dk/).
-- 
-<!--
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlos-gil-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-gil-garcia" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14638733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14638733" height="30" width="40" /></a>
-<a href="mailto:cargilgar6@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="14638733" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-mparis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-mparis" height="30" width="40" /></a>
+<a href="mailto:danimp94@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="14638733" height="30" width="40" /></a>
 </p>
+
+
+<!--
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
