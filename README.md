@@ -3,7 +3,7 @@
 - 👨‍💼 I'm a mechanical and robotic engineer in Denmark.
 - 📖 I'm a passionate about artificial intelligence, computer vision and embedded systems.
 - 🔭 I’m currently working on reinforcement learning projects.
-- 🌱 I’m currently studying a MSc degree in **Robotics at AAU** and working as student assistant in [**ASIR project**](https://asir.create.aau.dk/).
+- 🌱 I’m currently studying a MSc degree in **Robotics at AAU** and working at  [Airflight ApS](https://www.airflight.io/).
 
 <h3 align="left">📫 Contact with me:</h3>
 <p align="left">
