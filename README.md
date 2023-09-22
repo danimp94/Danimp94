@@ -33,7 +33,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.nvidia.com/en-us/omniverse/" target="_blank"> <img src="https://docs.omniverse.nvidia.com/con_connect/_images/renderer.png" alt="OmniverseIsaacSim" width="40" height="40"/> </a>  
+<a href="https://www.nvidia.com/en-us/omniverse/" target="_blank"> <img src="https://esri.github.io/cityengine/assets/img/omniverse.png" alt="OmniverseIsaacSim" width="40" height="40"/> </a>  
 <a href="http://gazebosim.org/"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" alt="gazebo_logo" width="40" height="40"> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.ros.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros_logo" height="36"> </a>
