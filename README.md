@@ -2,8 +2,8 @@
 
 - 👨‍💼 I'm a mechanical and robotic engineer in Denmark.
 - 📖 I'm a passionate about artificial intelligence, computer vision and embedded systems.
-- 🔭 I’m currently working on reinforcement learning projects.
-- 🌱 I’m currently working on my MSc thesis in **Robotics at AAU** in relation to the field of Material Acceleration Platforms.
+- 🔭 I'm currently working on reinforcement learning projects.
+- 🌱 I've completed my MSc in **Robotics at AAU** and I'm looking forward to find a job that allows me to combine my passions, Robotics and AI.
 
 <h3 align="left">📫 Contact with me:</h3>
 <p align="left">
