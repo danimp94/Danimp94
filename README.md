@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💼 I'm a mechanical and robotic engineer in Denmark.
+- 👨‍💼 I'm a mechanical and robotics engineer in Denmark.
 - 📖 I'm a passionate about artificial intelligence, computer vision and embedded systems.
 - 🔭 I'm currently working on reinforcement learning projects.
 - 🌱 I've completed my MSc in **Robotics at AAU** and I'm looking forward to find a job that allows me to combine my passions, Robotics and AI.
