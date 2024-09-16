@@ -1,9 +1,20 @@
-### Hi there 👋
+### Hi there! 👋 
 
-- 👨‍💼 I'm a mechanical and robotics engineer in Denmark.
-- 📖 I'm a passionate about artificial intelligence, computer vision and embedded systems.
-- 🔭 I'm currently working on reinforcement learning projects.
-- 🌱 I've completed my MSc in **Robotics at AAU** and I'm looking forward to find a job that allows me to combine my passions, Robotics and AI.
+I'm a **Robotics and AI Engineer** based in Madrid, with a deep passion for advancing technology through **research and innovation**. My journey has led me to explore cutting-edge solutions in **AI, Robotics,** and **Sensing systems**, with a particular fascination on **RL**.
+
+### 🚀 Current Projects:
+- **Reinforcement Learning (RL)**: Designing intelligent agents capable of autonomous decision-making. Exploring applications in robotics, automation, and AI-driven systems.
+- **PhD Research at UC3M**: Pushing the boundaries of **EM sensing** and **AI** through novel research, aiming to make impactful contributions to the field.
+  
+### 🎓 Academic Background:
+- **MSc in Robotics from Aalborg University (AAU), Denmark**: Specialized in AI applied to robotic technologies.
+  
+### 🌱 Always Learning:
+I'm constantly evolving my skill set, diving deeper into areas like **deep reinforcement learning**, **multi-agent systems**, and **real-time embedded AI**.
+
+### 📫 Let's Connect:
+Whether you're working on exciting projects or exploring research ideas, feel free to reach out! I'm always open to collaborations and discussions in **robotics** and **machine learning**.
+0
 
 <h3 align="left">📫 Contact with me:</h3>
 <p align="left">
